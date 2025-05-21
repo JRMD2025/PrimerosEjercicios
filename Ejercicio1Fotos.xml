@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coleccion>
+ <Album>
+   <foto>
+     <Lugar>Gante</Lugar>
+     <Fecha>20/05/25</Fecha>
+     <Camara>Nikon 123</Camara>
+     <Personas>Nelson</Personas>
+     <Monumento>Fontana de Trevi</Monumento>
+   </foto>
+   <foto>
+     <Lugar>Madrid</Lugar>
+     <Fecha>20/5/25</Fecha>
+     <Camara>NiKon Kolpix</Camara>
+     <Personas>J R</Personas>
+     <Monumento>Puerta del Sol</Monumento>
+   </foto>
+</Album>
+<Album>
+  <foto>
+     <Lugar>Lugar</Lugar>
+     <Fecha>Fecha</Fecha>
+     <Camara>Camara</Camara>
+     <Personas>Personas</Personas>
+     <Monumento>Monumento</Monumento>
+  </foto>
+     <foto>
+     <Lugar>Lugar</Lugar>
+     <Fecha>Fecha</Fecha>
+     <Camara>Camara</Camara>
+     <Personas>Personas</Personas>
+     <Monumento>Monumento</Monumento>
+  </foto>
+ </Album>
+</coleccion>
